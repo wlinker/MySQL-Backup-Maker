@@ -1,0 +1,49 @@
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.Resources.resources
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MySQL Backup Maker.vbproj.GenerateResource.Cache
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.panel.resources
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\Mysql Backup Maker.exe
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\Mysql Backup Maker.xml
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\Mysql Backup Maker.pdb
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\bin\Debug\Mysql Backup Maker.exe.manifest
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\bin\Debug\Mysql Backup Maker.application
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\bin\Debug\Mysql Backup Maker.exe
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\bin\Debug\Mysql Backup Maker.pdb
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\bin\Debug\Mysql Backup Maker.xml
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.panel.resources
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.Resources.resources
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\MySQL Backup Maker.vbproj.GenerateResource.Cache
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\Mysql Backup Maker.exe.manifest
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\Mysql Backup Maker.application
+C:\Users\wlinker\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.splash.resources
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.splash.resources
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\bin\Debug\MBM.exe.manifest
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\bin\Debug\MBM.application
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\bin\Debug\MBM.exe
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\bin\Debug\MBM.pdb
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\bin\Debug\MBM.xml
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.exe.manifest
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.application
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.exe
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.xml
+C:\Users\Supervision\Desktop\backuper\Notificador_Comercial\obj\Debug\MBM.pdb
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.exe
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.xml
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.pdb
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Debug\MBM.exe.manifest
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Debug\MBM.application
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Debug\MBM.exe
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Debug\MBM.pdb
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Debug\MBM.xml
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Debug\MySql.Data.dll
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MySQL Backup Maker.vbprojResolveAssemblyReference.cache
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.panel.resources
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.Resources.resources
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.splash.resources
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MySQL Backup Maker.vbproj.GenerateResource.Cache
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.exe.manifest
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Debug\MBM.application
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\MBM\obj\Debug\MBM.exe
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\MBM\obj\Debug\MBM.xml
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\MBM\obj\Debug\MBM.pdb

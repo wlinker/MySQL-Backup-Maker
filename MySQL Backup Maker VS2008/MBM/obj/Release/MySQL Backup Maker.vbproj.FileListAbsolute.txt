@@ -1,0 +1,16 @@
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Release\MBM.exe.manifest
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Release\MBM.application
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Release\MBM.exe
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Release\MBM.pdb
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Release\MBM.xml
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\bin\Release\MySql.Data.dll
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MySQL Backup Maker.vbprojResolveAssemblyReference.cache
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.panel.resources
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.Resources.resources
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.splash.resources
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MySQL Backup Maker.vbproj.GenerateResource.Cache
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.exe.manifest
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.application
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.exe
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.xml
+C:\Users\ErickAlfredo\SkyDrive\Proyectos\VS\Proyectos\MySQL Backup Maker VS2008\Notificador_Comercial\obj\Release\MBM.pdb
